@@ -3,7 +3,7 @@ import requests
 import time
 import os
 
-T0KEN = '432988684:AAEY6eHEu6qEQeSKvqwU1i9-IBYaR5lIaqw'
+T0KEN = '<BOT.TOKEN>'
 
 bot = telebot.TeleBot(T0KEN)
 
